@@ -1,7 +1,7 @@
 const mongoose = require("../db/connections");
 
 const Schema = mongoose.Schema;
-const Womens = new Schema({
+const womens = new Schema({
   logo: String,
   brand_name: String,
   CEO: String,
@@ -45,4 +45,4 @@ const Womens = new Schema({
   link: String,
 });
 
-module.exports = mongoose.model("Womens", Womens);
+module.exports = mongoose.model("womens", womens);

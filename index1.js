@@ -1,47 +1,16 @@
 const express = require("express");
 const app = express();
-const womens = require("./models/womens");
 const mens = require("./models/mens");
 const parser = require("body-parser");
 const cors = require("cors");
 
-app.use(parser.json());
 app.use(cors());
+app.use(parser.json());
 
-app.get("/womens", (req, res) => {
-  womens.find({}).then((womens) => {
-    res.json(womens);
+app.get("/", (req, res) => {
+  mens.find({}).then((mens) => {
+    res.json(mens);
   });
-});
-
-app.get("/womens/:brand_name", (req, res) => {
-  womens
-    .findOne({ brand_name: decodeURI(req.params.brand_name) })
-    .then((womens) => {
-      res.json(womens);
-    });
-});
-
-app.post("/womens", (req, res) => {
-  womens.create(req.body).then((womens) => {
-    res.json(womens);
-  });
-});
-
-app.put("/womens/brand_name/:brand_name", (req, res) => {
-  womens
-    .findOneAndUpdate({ brand_name: req.params.brand_name }, req.body)
-    .then((womens) => {
-      res.json(womens);
-    });
-});
-
-app.delete("/womens/:brand_name", (req, res) => {
-  womens
-    .findOneAndDelete({ brand_name: req.params.brand_name }, req.body)
-    .then((womens) => {
-      res.json(womens);
-    });
 });
 app.get("/mens", (req, res) => {
   mens.find({}).then((mens) => {
@@ -96,6 +65,11 @@ app.delete("/mens/:brand_name", (req, res) => {
 });
 
 app.set("port", process.env.PORT || 8080);
-app.listen(app.get("port"), () => {
-  console.log(`✅ PORT: ${app.get("port")} 🌟`);
-});
+
+// app.listen(app.get("port"), () => {
+//   console.log(`✅ PORT: ${app.get("port")} 🌟`);
+// });
+
+// // app.listen(1717, () => {
+// //   console.log("Listening on port 1717");
+// // });

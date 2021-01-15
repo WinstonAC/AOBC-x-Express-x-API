@@ -1,23 +1,23 @@
-const WomenFashion = require("../models/WomenFashion");
-const WomenFashionData = require("../db/womenFashion.json");
+const womens= require("../models/womens");
+const womensData = require("../db/womens.json");
 
-console.log(WomenFashionData);
-WomenFashion.deleteMany({}).then(() => {
-  WomenFashion.create(WomenFashionData)
+console.log(womensData);
+womens.deleteMany({}).then(() => {
+  womens.create(womensData)
     .then(() => {
-      WomenFashion.find({}).then((res) => console.log(res));
+      womens.find({}).then((res) => console.log(res));
     })
     .catch((err) => {
       console.log(err);
     });
 });
-const menswear = require("../models/menswear");
-const menswearList = require("./menswear.json");
-console.log(menswearList);
+const mens = require("../models/mens");
+const mensList = require("./mens.json");
+console.log(mensList);
 
-menswear.deleteMany({}).then(() => {
+mens.deleteMany({}).then(() => {
   // Mongoose Model creating data
-  menswear.create(menswearList).then((output) => {
+  mens.create(mensList).then((output) => {
     console.log(output);
     process.exit();
   });
