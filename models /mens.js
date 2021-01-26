@@ -14,30 +14,15 @@ const Mens = new Schema({
         {
           name: String,
           image_url: String,
-          details: String,
+          details: [
+            {
+              coo: String,
+              price: String,
+              content: String,
+            },
+          ],
           color: String,
-          origin: String,
-        },
-        {
-          name: String,
-          image_url: String,
-          details: String,
-          color: String,
-          origin: String,
-        },
-        {
-          name: String,
-          image_url: String,
-          details: String,
-          color: String,
-          origin: String,
-        },
-        {
-          name: String,
-          image_url: String,
-          details: String,
-          color: String,
-          origin: String,
+          description: String,
         },
       ],
     },

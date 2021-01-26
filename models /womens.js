@@ -20,7 +20,7 @@ const womens = new Schema({
             content: String,
           }],
           color: String,
-          origin: String,
+          description: String,
         }
       ],
     },
