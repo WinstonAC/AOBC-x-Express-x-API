@@ -18,7 +18,9 @@ const Mens = new Schema({
             {
               coo: String,
               price: String,
+              color: String,
               content: String,
+              descriptin: String,
             },
           ],
         },
