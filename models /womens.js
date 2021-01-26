@@ -17,6 +17,7 @@ const womens = new Schema({
           details: String,
           color: String,
           origin: String,
+          content: String,
         },
         {
           name: String,
@@ -24,6 +25,7 @@ const womens = new Schema({
           details: String,
           color: String,
           origin: String,
+          content: String,
         },
         {
           name: String,
@@ -31,6 +33,7 @@ const womens = new Schema({
           details: String,
           color: String,
           origin: String,
+          content: String,
         },
         {
           name: String,
@@ -38,6 +41,7 @@ const womens = new Schema({
           details: String,
           color: String,
           origin: String,
+          content: String,
         },
       ],
     },
