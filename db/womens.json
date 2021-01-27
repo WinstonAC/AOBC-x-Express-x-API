@@ -1,0 +1,28 @@
+[
+    {
+  "logo": Strin,
+  "brand_name": String,
+  "CEO": String,
+  "type": String,
+  "price_point": String,
+  "categories": [
+    {
+      "category": String,
+      "products": [
+        {
+          "name": String,
+          "image_url": String,
+          "details": [
+            {
+              "coo": String,
+              "price": String,
+              "content": String,
+            },
+          ],
+        },
+      ],
+    },
+  ],
+  "link": String,
+}
+]
