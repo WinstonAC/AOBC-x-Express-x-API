@@ -1,0 +1,453 @@
+[
+  {
+    "logo": "https://pds.exblog.jp/pds/1/201609/18/51/f0044151_165878.jpg",
+    "brand_name": "Public School",
+    "CEO": "Dao-Yi & Maxwell Osborne",
+    "type": "Streetwear",
+    "price_point": "$$",
+    "categories": [
+      {
+        "category": "Tops",
+        "products": [
+          {
+            "name": "PSNY X Alpha Industries MA-1 Men's Reversible Bomber Jacket",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/Alpha-Mens-Main_1024x1024.jpg?v=1507306969",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "149.00 USD",
+                "color": "Army",
+                "content": "featuring our reversible \"WNL\" embroidery, removable shoulder carrying strap, \"PSNY\" velcro ID patch and other details",
+                "descriptin": "Our exclusive collaboration with Alpha Industries features a new twist on the iconic MA-1 silhouette"
+              }
+            ]
+          },
+          {
+            "name": "Love Your Mother Nature Long Sleeve",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/LYMN-front_1024x1024.jpg?v=1599767789",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "85.00 USD",
+                "color": "Black",
+                "content": "recycled and 100% biodegradable",
+                "descriptin": "Made in celebration of Earth Day Printed on recycled and 100% biodegradable tees by Version Tomorrow Tees are certified for their recycled and organic cotton content This long sleeve tee's graphics are printed using water based inks and do not contain any plastics or PVC"
+              }
+            ]
+          },
+          {
+            "name": "Lotis Crew",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/PS18M512-MAIN_1024x1024.jpg?v=1515012415",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "235.00 USD",
+                "color": "Army",
+                "content": "Knit: 50% Merino Wool 50% Acrylic,French Terry: 100% Cotton",
+                "descriptin": "Men's Crewneck sweater w/ french terry combo"
+              }
+            ]
+          },
+          {
+            "name": "Tile Hoodie Red",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/PS18M437-MAIN_1024x1024.jpg?v=1515448930",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "125.00 USD",
+                "color": "Red",
+                "content": " 100% Cotton",
+                "descriptin": "Men's basic french terry hoodie w/ graphic"
+              }
+            ]
+          }
+        ]
+    },
+      {
+        "catagory": "Bottoms",
+        "products": [
+          {
+            "name": "M.K. Jogger",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/PS18M118-MAIN_1024x1024.jpg?v=1515448454",
+            "details": [
+              {
+                "coo": "Made in USA",
+                "price": "195.00 USD",
+                "color": "Black",
+                "content": "63% Cotton 37% Nylon",
+                "descriptin": "Men's straight fit jogger with side tapes, drawstrings on waist"
+              }
+            ]
+          },
+          {
+            "name": "Quint Swim Short ",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/S18M132-MAIN_1024x1024.jpg?v=1515189621",
+            "details": [
+              {
+                "coo": "Made in USA",
+                "price": "165.00 USD",
+                "color": "Multi",
+                "content": "Men's swim short w/ lining",
+                "descriptin": "52% Cotton 48% Nylon"
+              }
+            ]
+          },
+          {
+            "name": "Rome Cargo Pants",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/olive-cargo-front_1024x1024.jpg?v=1599767068",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "295.00 USD",
+                "color": "Army",
+                "content": "Made from deadstock cotton fabric",
+                "descriptin": "Large gauge metal logo zipper at the knee, Bellowed cargo pockets"
+              }
+            ]
+          },
+          {
+            "name": "Rome Cargo Pants ",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/navy-cargo-front_1024x1024.jpg?v=1599767448",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "295.00 USD",
+                "color": "Indigo",
+                "content": "Made from deadstock cotton fabric",
+                "descriptin": "Large gauge metal logo zipper at the knee,Bellowed cargo pockets"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "catagory": "Accessories",
+        "products": [
+          {
+            "name": "WNL Mask",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/WNLMask_R1_1024x1024.jpg?v=1602186405",
+            "details": [
+              {
+                "coo": "USA",
+                "price": "15.00 USD",
+                "color": "Black",
+                "content": " Antiviral properties, Elasticated ear loop, 78% Cotton / 22% Polyester blend, Hand wash cold or delicate cycle",
+                "descriptin": "Screened WNL logo on left, Compliant with BFE Standards, .Line dry, Size Youth - Height: 5.1  Width 7in, Earloop: 5, Size M/L - Height 5.5in, Width: 8.8, Earloop: 5.5 - fits most men, Note: Non-medical grade. All masks are final sale and are not returnable"
+              }
+            ]
+            },
+            {
+                "name": "WNL Pom Pom Hat ",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/WNL-Beanie-POMPOM_1024x1024.jpg?v=1482166715",
+                "details": [
+                  {
+                    "coo": "String",
+                    "price": "125.00 USD",
+                    "color": "Multi",
+                    "content": "100% Cashmerer",
+                    "descriptin": "Public School x New Era, WNL logo intarsia"
+                  }
+                ]
+              },
+              {
+                "name": "PSNY® 5 Panel",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/public-school-new-era-psny-the-league-10-1_1024x1024.jpg?v=1597860290",
+                "details": [
+                  {
+                    "coo": "String",
+                    "price": "65.00 USD",
+                    "color": "String",
+                    "content": "Crafted in DWR 1000D Cordura with YKK zippers Detachable nylon sling Metal zippers Comes with a PSNY engraved chain ",
+                    "descriptin": "We've partnered with insatiable.nyc, a softgoods studio based in Brooklyn, to create a limited run of the original monosling pack,  to mil-spec standards, , with a removable shoulder strap, Made in New York City, 100% of net proceeds will be contributed towards Apex For Youth mentoring and educational programs for Asian and immigrant youth from low-income families in NYC, Item will start shipping on August 17, 2020, Final Sale"
+                  }
+                ]
+              },
+            {
+              "catagory": "Shoes",
+              "products": [
+              {
+                "name": "Leather Creeper",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/creeper-leather-new_1024x1024.jpg?v=1434041652",
+                "details": [
+                  {
+                    "coo": "Made in Portugal",
+                    "price": "440.00 USD",
+                    "color": "Black",
+                    "content": "Men's leather creeper with platform",
+                    "descriptin": "100% Cow Leather"
+                  }
+                ]
+              },
+              {
+                "name": "Patent Creeper ",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/Creepers-side1_6582f952-3fcd-4c80-93d7-6aa349e4fc2d_1024x1024.jpg?v=1594139747",
+                "details": [
+                  {
+                    "coo": "Made in Portugal",
+                    "price": "325.00 USD",
+                    "color": "Black",
+                    "content": "Patent Leather",
+                    "descriptin": "Men's patent leather creeper with yellow stitching"
+                  }
+                ]
+              },
+              {
+                "name": "Timberland X PSNY 8 Pro Boot",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/timberland-sidexside_1024x1024.jpg?v=1597889630",
+                "details": [
+                  {
+                    "coo": "Made in Portugal",
+                    "price": "240.00 USD",
+                    "color": "Black",
+                    "content": "We added a chunky 8gg zipper to allow for easy access while maintaining its original waterproof standard, Waterproof",
+                    "descriptin": "Taking it back to its true original form, our very first Timberland collaboration celebrates the ubiquitous construction worker whose incessant quest to beautify our dilapidated city has provided us with never-ending style inspiration,  We raised the classic 6” upper by 2 inches, sculpted the ankle, put it on a Timberland Pro bottom and flooded it in our PS Grey Nubuck"
+                  }
+                ]
+              },
+              {
+                "name": "St Classic Braeburn Low-Top",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/F17M605-BLK-MAIN_1024x1024.jpg?v=1502223141",
+                "details": [
+                  {
+                    "coo": "Made in Portugal of Italian components",
+                    "price": "325.00 USD",
+                    "color": "Black",
+                    "content": "Features suede leather paneling in contrast colors",
+                    "descriptin": "Our classic Braeburn sneaker tonal stitching, and cup sole,"
+                  }
+                ]
+              }
+    
+        ]
+    }          
+   ]
+ }
+],
+"link": "thttps://www.publicschoolnyc.com/"
+  },
+
+{
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkQCyOzjq6Dk5dGoZRxUPuyWQsvkftyVZndQ&usqp=CAU",
+    "brand_name": "Fear of God",
+    "CEO": "Jerry Lorenzo",
+    "type": "High Fashion/ Luxury",
+    "price_point": "$$$$",
+    "categories": [
+      {
+        "category": "Tops",
+        "products": [
+          {
+            "name": "Track Jacket",
+            "image_url": "https://fearofgod.com/collections/seventh-collection/products/track-jacket",
+            "details": [
+              {
+                "coo": "Italy",
+                "price": "1,095.00 USD",
+                "color": "Black",
+                "content": "Italian Nylon",
+                "descriptin": "The Track Jacket is inspired by the silhouettes of 80's sportswear and is elevated by Italian nylon. The jacket is unlined with a front and back vent to add athletic inspired ventilation and the USA knitted 1x1 rib adds a contrast of texture at the cuffs and waistband"
+              }
+            ]
+          },
+          {
+            "name": "FEAROFGODZegna Wool Knit Polo Sweater",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/24_FZVG50-132-K93_POLOSWEATER_GREY_FRONT_1920x.jpg?v=1601010280",
+            "details": [
+              {
+                "coo": "Italy",
+                "price": "1,000.00 USD",
+                "color": "Black",
+                "content": "The voluminous proportions create contemporary shape and drape all perfectly framed by a heavy rib knit collar, cuffs, and waistband,Four horn button placket,Rib knit collar, cuffs and waistband,Zegna leather label, 100% wool, Model is 5ft 9in and wearing a size 48",
+                "descriptin": "A classic polo crafted in a heavy wool knit to add luxurious depth and texture"
+              }
+            ]
+          },
+          {
+            "name": "FEAROFGODZegna Cotton Cashmere Hoodie ",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/28_FZJ804-FZ1001-K09_SLIMFITHOODIE_BLACK_BACK_1920x.jpg?v=1601085546 ",
+            "details": [
+              {
+                "coo": "Made in Portugal",
+                "price": "790.00 USD",
+                "color": "Black",
+                "content": "Knitted cuffs and waistband,Zegna logo on back,93% cotton / 7% cashmer",
+                "descriptin": "A slim fit hooded sweatshirt designed to be styled comfortably under jackets and coats The hoodie is elevated through a cotton cashmere jersey with hidden brass snap buttons and framed by ribbed knit cuffs and waistband"
+              }
+            ]
+          },
+          {
+            "name": "FEAROFGODZegna Wool Single Breasted Lapelless Jacket",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/9_8CFG17-18X5N0-7_SINGLEBREASTEDLAPELLESSJACKET_BLACK_FRONT_1920x.jpg?v=1601010022",
+            "details": [
+              {
+                "coo": "Made in Italy",
+                "price": "2,050.00 USD",
+                "color": "Black",
+                "content": "Fully lined in 100% cupro 100% wool",
+                "descriptin": "A wider shoulder width inspired by suiting of the late 80's, the lapelless jacket has hints of history with its shape but is modern in its finishing and design details, Horn button Hidden button cuffs, Locker loop in self fabric"
+              }
+            ]
+          }
+        ]
+    },
+      {
+        "catagory": "Bottoms",
+        "products": [
+          {
+            "name": "FEAROFGODZegna Wool Single Pleat Trouser 1,025.00 USD",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/PS18M118-MAIN_1024x1024.jpg?v=1515448454",
+            "details": [
+              {
+                "coo": "Made in USA",
+                "price": "195.00 USD",
+                "color": "Black",
+                "content": "63% Cotton 37% Nylon",
+                "descriptin": "Men's straight fit jogger with side tapes, drawstrings on waist"
+              }
+            ]
+          },
+          {
+            "name": "Quint Swim Short ",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/S18M132-MAIN_1024x1024.jpg?v=1515189621",
+            "details": [
+              {
+                "coo": "Made in USA",
+                "price": "165.00 USD",
+                "color": "Multi",
+                "content": "Men's swim short w/ lining",
+                "descriptin": "52% Cotton 48% Nylon"
+              }
+            ]
+          },
+          {
+            "name": "Rome Cargo Pants",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/olive-cargo-front_1024x1024.jpg?v=1599767068",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "295.00 USD",
+                "color": "Army",
+                "content": "Made from deadstock cotton fabric",
+                "descriptin": "Large gauge metal logo zipper at the knee, Bellowed cargo pockets"
+              }
+            ]
+          },
+          {
+            "name": "Rome Cargo Pants ",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/navy-cargo-front_1024x1024.jpg?v=1599767448",
+            "details": [
+              {
+                "coo": "Various",
+                "price": "295.00 USD",
+                "color": "Indigo",
+                "content": "Made from deadstock cotton fabric",
+                "descriptin": "Large gauge metal logo zipper at the knee,Bellowed cargo pockets"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "catagory": "Accessories",
+        "products": [
+          {
+            "name": "WNL Mask",
+            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/WNLMask_R1_1024x1024.jpg?v=1602186405",
+            "details": [
+              {
+                "coo": "USA",
+                "price": "15.00 USD",
+                "color": "Black",
+                "content": " Antiviral properties, Elasticated ear loop, 78% Cotton / 22% Polyester blend, Hand wash cold or delicate cycle",
+                "descriptin": "Screened WNL logo on left, Compliant with BFE Standards, .Line dry, Size Youth - Height: 5.1  Width 7in, Earloop: 5, Size M/L - Height 5.5in, Width: 8.8, Earloop: 5.5 - fits most men, Note: Non-medical grade. All masks are final sale and are not returnable"
+              }
+            ]
+            },
+            {
+                "name": "WNL Pom Pom Hat ",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/WNL-Beanie-POMPOM_1024x1024.jpg?v=1482166715",
+                "details": [
+                  {
+                    "coo": "String",
+                    "price": "125.00 USD",
+                    "color": "Multi",
+                    "content": "100% Cashmerer",
+                    "descriptin": "Public School x New Era, WNL logo intarsia"
+                  }
+                ]
+              },
+              {
+                "name": "PSNY® 5 Panel",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/public-school-new-era-psny-the-league-10-1_1024x1024.jpg?v=1597860290",
+                "details": [
+                  {
+                    "coo": "String",
+                    "price": "65.00 USD",
+                    "color": "String",
+                    "content": "Crafted in DWR 1000D Cordura with YKK zippers Detachable nylon sling Metal zippers Comes with a PSNY engraved chain ",
+                    "descriptin": "We've partnered with insatiable.nyc, a softgoods studio based in Brooklyn, to create a limited run of the original monosling pack,  to mil-spec standards, , with a removable shoulder strap, Made in New York City, 100% of net proceeds will be contributed towards Apex For Youth mentoring and educational programs for Asian and immigrant youth from low-income families in NYC, Item will start shipping on August 17, 2020, Final Sale"
+                  }
+                ]
+              },
+            {
+              "catagory": "Shoes",
+              "products": [
+              {
+                "name": "Leather Creeper",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/creeper-leather-new_1024x1024.jpg?v=1434041652",
+                "details": [
+                  {
+                    "coo": "Made in Portugal",
+                    "price": "440.00 USD",
+                    "color": "Black",
+                    "content": "Men's leather creeper with platform",
+                    "descriptin": "100% Cow Leather"
+                  }
+                ]
+              },
+              {
+                "name": "Patent Creeper ",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/Creepers-side1_6582f952-3fcd-4c80-93d7-6aa349e4fc2d_1024x1024.jpg?v=1594139747",
+                "details": [
+                  {
+                    "coo": "Made in Portugal",
+                    "price": "325.00 USD",
+                    "color": "Black",
+                    "content": "Patent Leather",
+                    "descriptin": "Men's patent leather creeper with yellow stitching"
+                  }
+                ]
+              },
+              {
+                "name": "Timberland X PSNY 8 Pro Boot",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/timberland-sidexside_1024x1024.jpg?v=1597889630",
+                "details": [
+                  {
+                    "coo": "Made in Portugal",
+                    "price": "240.00 USD",
+                    "color": "Black",
+                    "content": "We added a chunky 8gg zipper to allow for easy access while maintaining its original waterproof standard, Waterproof",
+                    "descriptin": "Taking it back to its true original form, our very first Timberland collaboration celebrates the ubiquitous construction worker whose incessant quest to beautify our dilapidated city has provided us with never-ending style inspiration,  We raised the classic 6” upper by 2 inches, sculpted the ankle, put it on a Timberland Pro bottom and flooded it in our PS Grey Nubuck"
+                  }
+                ]
+              },
+              {
+                "name": "St Classic Braeburn Low-Top",
+                "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/F17M605-BLK-MAIN_1024x1024.jpg?v=1502223141",
+                "details": [
+                  {
+                    "coo": "Made in Portugal of Italian components",
+                    "price": "325.00 USD",
+                    "color": "Black",
+                    "content": "Features suede leather paneling in contrast colors",
+                    "descriptin": "Our classic Braeburn sneaker tonal stitching, and cup sole,"
+                  }
+                ]
+              }
+    
+        ]
+    }          
+   ]
+ }
+],
+"link": "thttps://www.publicschoolnyc.com/"

@@ -1,28 +1,28 @@
 [
     {
-      "logo": "https://pds.exblog.jp/pds/1/201609/18/51/f0044151_165878.jpg",
-      "brand_name": "Public School",
-      "CEO": "Dao-Yi & Maxwell Osborne",
-      "type": "Streetwear",
-      "price_point": "$$",
+      "logo": ,
+      "brand_name": ,
+      "CEO": ,
+      "type": ,
+      "price_point": ,
       "categories": [
         {
-          "category": "Tops",
+          "category": ,
           "products": [
             {
-              "name": "PSNY X Alpha Industries MA-1 Men's Reversible Bomber Jacket` 149.00 USD",
-              "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/Alpha-Mens-Main_1024x1024.jpg?v=1507306969",
-              "details": "Our exclusive collaboration with Alpha Industries features a new twist on the iconic MA-1 silhouette",
-              "color":" Army ",
-              "orgin":"Various",
-              "content":"featuring our reversible \"WNL\" embroidery, removable shoulder carrying strap, \"PSNY\" velcro ID patch and other details "
+              "name": ,
+              "image_url": ,
+              "details": ,
+              "color":,
+              "orgin":
+              "content":"
             },
             {
-              "name": "Love Your Mother Nature Long Sleeve 85.00 USD",
-              "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/LYMN-front_1024x1024.jpg?v=1599767789",
+              "name": " ",
+              "image_url": ,
               "details": "Made in celebration of Earth Day ",
               "color":"Black",
-              "origin":"Various",
+              "origin":"",
               "content":"Printed on recycled and 100% biodegradable tees by Version Tomorrow Tees are certified for their recycled and organic cotton content This long sleeve tee's graphics are printed using water based inks and do not contain any plastics or PVC Note: This tee runs true to small"
             },
             {
