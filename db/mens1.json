@@ -294,61 +294,61 @@
         "catagory": "Bottoms",
         "products": [
           {
-            "name": "FEAROFGODZegna Wool Single Pleat Trouser 1,025.00 USD",
-            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/PS18M118-MAIN_1024x1024.jpg?v=1515448454",
+            "name": "FEAROFGODZegna Wool Single Pleat Trouser",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/11_8CFG17-75XCN2-7_SLIMTROUSER_BLACK_FRONT_1920x.jpg?v=1601010336",
             "details": [
               {
-                "coo": "Made in USA",
-                "price": "195.00 USD",
+                "coo": "Made in Italy",
+                "price": "1,025.00 USD",
                 "color": "Black",
-                "content": "63% Cotton 37% Nylon",
-                "descriptin": "Men's straight fit jogger with side tapes, drawstrings on waist"
+                "content": "Lined in 100% cupro, 100% wool",
+                "descriptin": "A single pleat slim fit trouser with a slightly tapered leg is given contemporary style additions with side seam pockets and recognizable Fear of God zip leg closures, Back welt pocket, Side seam pockets, Zip closure at ankle"
               }
             ]
           },
           {
-            "name": "Quint Swim Short ",
+            "name": "FEAROFGODZegna Denim Jean",
             "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/S18M132-MAIN_1024x1024.jpg?v=1515189621",
             "details": [
               {
                 "coo": "Made in USA",
-                "price": "165.00 USD",
-                "color": "Multi",
-                "content": "Men's swim short w/ lining",
-                "descriptin": "52% Cotton 48% Nylon"
+                "price": "920.00 USD",
+                "color": "Blue",
+                "content": "14oz Japanese selvedge denim",
+                "descriptin": "A slim cut jean with minimal hardware for a clean aesthetic.  The jean is made in the USA with a 14oz Japanese selvedge denim and is treated with a vintage wash and a dry hand vintage process, Brass hardware, Zegna metal branding"
               }
             ]
           },
           {
-            "name": "Rome Cargo Pants",
-            "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/olive-cargo-front_1024x1024.jpg?v=1599767068",
+            "name": "FEAROFGODZegna Cotton Blend Sweatpant",
+            "image_url": "https://cdn.shopify.com/s/files/1/1003/3354/products/31_FZJ803-FZ4004-K09_SWEATPANT_BLACK_FRONT_1920x.jpg?v=1601010209",
             "details": [
               {
-                "coo": "Various",
-                "price": "295.00 USD",
+                "coo": "Made in Portugal",
+                "price": "620.00 USD",
                 "color": "Army",
-                "content": "Made from deadstock cotton fabric",
-                "descriptin": "Large gauge metal logo zipper at the knee, Bellowed cargo pockets"
+                "content": "80% cotton / 20% polyester",
+                "descriptin": "A Fear of God classic sweatpant softened and lightened to style seamlessly with tailored pieces. Includes new design details like a knitted waistband, side seam zipper pockets, as well as familiar Fear of God details like an extended belt strap and a Zegna branded leather label on the front, Back welt pocket, Side seam zipper pockets, Encased elastic waistband, Zegna branded leather label, Removable extended belt strap"
               }
             ]
           },
           {
-            "name": "Rome Cargo Pants ",
+            "name": "FEAROFGODZegna Wool Double Pleat Trouser 1,145.00 USD",
             "image_url": "https://cdn.shopify.com/s/files/1/0698/9609/products/navy-cargo-front_1024x1024.jpg?v=1599767448",
             "details": [
               {
-                "coo": "Various",
+                "coo": "Made in Portugal",
                 "price": "295.00 USD",
                 "color": "Indigo",
-                "content": "Made from deadstock cotton fabric",
-                "descriptin": "Large gauge metal logo zipper at the knee,Bellowed cargo pockets"
+                "content": "80% cotton / 20% polyester",
+                "descriptin": ""
               }
             ]
           }
         ]
       },
       {
-        "catagory": "Accessories",
+        "catagory": "Shoes",
         "products": [
           {
             "name": "WNL Mask",
@@ -390,7 +390,7 @@
                 ]
               },
             {
-              "catagory": "Shoes",
+              "catagory": "Accessories",
               "products": [
               {
                 "name": "Leather Creeper",
